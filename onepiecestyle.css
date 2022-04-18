@@ -1,0 +1,43 @@
+body {
+    background-color: #ADD8E6;
+    margin:0 10%;
+    font-family: Georgia;
+
+}
+
+h1, #title{
+    text-align: center;
+    text-shadow: 5px 5px 10px darkblue;
+    font-size: 3em;
+}
+
+h3, #sub-title{
+    text-align: center;
+    text-shadow: 5px 5px 10px darkblue;
+    font-size: 2em;
+    background-color: #5c91e5;
+    box-shadow: 10px 10px 15px darkblue;
+}
+
+img{
+    display: inline-block;
+    width: 100%;
+    margin: 0 5%;
+}
+
+#Quotes{
+    font-size: 20px;
+    font-style: italic;
+}
+
+div #tribute-info{
+    background-color: #5c91e5;
+    box-shadow: 10px 10px 15px darkblue;
+    margin-top: 15px;
+}
+
+ #tribute-info{
+    background-color:#5c91e5;
+    box-shadow: 10px 10px 15px darkblue;
+    padding: 10px;
+}
